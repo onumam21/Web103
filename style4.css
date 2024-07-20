@@ -1,0 +1,7 @@
+section div[id^="my"] {
+     display: inline-block;
+     width: 300px;
+     background-color: plum; /* Corrected */
+     color: white;
+     margin: 4px;
+ }
